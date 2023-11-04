@@ -1,5 +1,4 @@
 # Project355
-This is the read me
-Connor Kohout, Carissa, Ankita Sahu,
+Connor Kohout, Carissa Trieu, Ankita Sahu,
 
-This project is for CMSC355 on applications of mixed reality.
+This project is for CMSC355 on applications of mixed reality using Unity and the Microsoft Mixed Reality Toolkit 3.
